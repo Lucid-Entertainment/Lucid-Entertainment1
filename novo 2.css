@@ -84,17 +84,17 @@
   
   .gallery div img:hover{transform:scale(1.1);filter:grayscale(0);}
   
-  .back{background-image:url("images/ai-generated-8229798_1280.jpg");height:100%;width:100%;background-size:cover;background-position:center;
+  .back{background-image:url("ai-generated-8229798_1280.jpg");height:100%;width:100%;background-size:cover;background-position:center;
         background-repeat:no-repeat;object-fit:cover;}
 		
 		
-  .back1{background-image:url("images/ai-generated-7988263_1920.jpg");height:100%;width:100%;background-size:cover;background-position:center;
+  .back1{background-image:url("ai-generated-7988263_1920.jpg");height:100%;width:100%;background-size:cover;background-position:center;
         background-repeat:no-repeat;object-fit:cover;}	
 		
-  .back2{background-image:url("images/fifa-7621000_1280.jpg");height:100%;width:100%;background-size:cover;background-position:center;
+  .back2{background-image:url("fifa-7621000_1280.jpg");height:100%;width:100%;background-size:cover;background-position:center;
         background-repeat:no-repeat;object-fit:cover;}		
 
-  .back3{background-image:url("images/clef-593912_1280.jpg");height:100%;width:100%;background-size:cover;background-position:center;
+  .back3{background-image:url("clef-593912_1280.jpg");height:100%;width:100%;background-size:cover;background-position:center;
         background-repeat:no-repeat;object-fit:cover;}	
 		
 	.back4{background-color:black;}		
